@@ -22,6 +22,4 @@ function toggleMode() {
       "Foto de João Vitor sorrindo usando blusa marrom sentando em um restaurante"
     )
   }
-
-  
 }
